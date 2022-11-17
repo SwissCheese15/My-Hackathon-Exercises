@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/bags-for-everyone-2.0" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bags-for-everyone-2.0/backend" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.10.4 Docker Compose (backend) (3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
